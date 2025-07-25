@@ -208,7 +208,7 @@ mkdir FIM
 cd FIM
 mkdir logs protected_files
 ```
-#### Create fim.py and paste your code.
+#### Create fim_gui.py and paste your code.
 ```bash
 import os
 import hashlib
